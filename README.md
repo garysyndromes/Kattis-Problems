@@ -1,3 +1,4 @@
 # Kattis-Problems
 Kattis Questions that I have attempted!
-Feel free to refer
+Mostly from problems done in CS2040.
+
